@@ -11,6 +11,9 @@
     text-decoration: none;
 }
 
+html{
+    scroll-behavior: smooth;
+}
 
  .hamburguer{
      /*background-color: red;*/
@@ -194,8 +197,6 @@ transition: color 0.5s;
     grid-template-rows: repeat(6,4rem);
     row-gap:1rem ;
 }
-
-
 
 
 .conhecimentos {
